@@ -1,4 +1,4 @@
-# Alaa Alshamy Portfolio
+<img width="697" height="688" alt="image" src="https://github.com/user-attachments/assets/10056ffc-c30d-4999-a162-2afe061bc7a2" /># Alaa Alshamy Portfolio
 
 A modern and responsive personal portfolio website designed and developed by Hassan Anwar to showcase projects, technical skills, and frontend development experience.
 
@@ -53,7 +53,7 @@ The website focuses on clean UI design, smooth user experience, responsive layou
 
 ## Live Preview
 
-https://alaaalshamy.netlify.app
+[<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/adcd1b3a-6164-4198-8cbb-32d1b75a9f53" />](https://alaaalshamy.netlify.app)
 
 ---
 
